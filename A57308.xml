@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The serpent's subtilty discovered in a plain answer to a lying scandalous paper, lately came from Leonard Letchford, who calls himself rector of Hurst-Pierpoint in the county of Sussex.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57308</idno>
+            <idno type="STC">Wing R1490</idno>
+            <idno type="STC">ESTC R217999</idno>
+            <idno type="EEBO-CITATION">99829628</idno>
+            <idno type="PROQUEST">99829628</idno>
+            <idno type="VID">34069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2000:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The serpent's subtilty discovered in a plain answer to a lying scandalous paper, lately came from Leonard Letchford, who calls himself rector of Hurst-Pierpoint in the county of Sussex.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing; signed and dated at end: the 15. day of the 12. moneth called February, inb the year 1663. Ambrose Rigge.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Letchford, Leonard. --  [Something drawn up for the good Christians information] --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34069:1"/>
+            <head>The SERPENT'S SUBTILTY Diſcovered, In a plain Anſwer to a lying ſcandalous Paper, late<g ref="char:EOLhyphen"/>ly came from <hi>Leonard Letchford,</hi> who calls himſelf Re<g ref="char:EOLhyphen"/>ctor of <hi>Hurſt-Pierpoint</hi> in the County of <hi>Suſsex.</hi>
+            </head>
+            <div type="summary_of_Letchfords_paper">
+               <p>HIs Paper is ſtiled, <hi>Something drawn up for the good Chriſtians in<g ref="char:EOLhyphen"/>formation, and the</hi> Quakers <hi>edification;</hi> in which he goes about to villifie the <hi>Quakers,</hi> as much as in him lyeth, by ſlanders and falſe accu<g ref="char:EOLhyphen"/>ſations; and laſtly, to charge them (as his fore Fathers did Chriſt) with having a Devil ten particular wayes, but is no more able to make it appear to be truth againſt the Quakers, then his Progenitors could againſt Chriſt and his followers in the dayes of old: And therefore is his lyes and falſe accu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ations returned upon his own head, which may ſerve for the univerſal good, and ſatisfaction of all honeſt people, who hath any ſcruple left in them concerning the Quakers. From him who is a real friend to all good Chriſtians, but a living witneſſe againſt all falſe accuſers and ſlanderers of the Truth, whoſe name amongſt men is <hi>Ambroſe Rigge.</hi>
+               </p>
+            </div>
+            <div type="Rigges_response_to_Letchfords_charges">
+               <head>And firſt to his Charges.</head>
+               <p>1. LEon. Letchford. <hi>ſaith, A Quaker is one whoſe pride tells him that the Pinacle of the Temple is a fitter place for him, then the feet of</hi> Gamaliell, <hi>one who ſcorns to be any ones Diſciple, yet undertakes to teach all, though he knows neither what he he ſaith, nor whereof he affirms.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This charge is very falſe againſt the Quaker, (whom the Lord in the riches of his love and mercy to him) hath brought, both from his pride, and the Pinacle of the Temple, and from the feet of ſuch Phariſees as <hi>Ga<g ref="char:EOLhyphen"/>maliell</hi> was, <hi>Acts</hi> 5. 34. at whoſe feet <hi>Saul</hi> was brought up, who was a
+<pb facs="tcp:34069:2" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:34069:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:34069:3"/>
+perſecutor of the ſervants of God, <hi>Acts</hi> 22. 4. binding and delivering both men and women into priſon, as his poſterity now doth, who are and hath been brought up at the feet of ſuch Phariſees as <hi>Gamaliell</hi> was, and are as blind perſecutors as ever <hi>Saul</hi> was, in binding and delivering into priſon both men and women, as he did, let all the Goales throughout <hi>England</hi> be witneſſes hereunto.</p>
+               <p>But the Quakers are brought to the feet of Jeſus to learn of him, whoſe Diſciples they are; yet are not greater then their Lord, whom the blind Phariſees called the Prince of Devils, <hi>Mat.</hi> 9. 34. <hi>Mark</hi> 12. 24. and ſo it is no marvell why ſuch as <hi>Leon. Letchford</hi> calls them of his houſhold after the ſame name, <hi>Mat.</hi> 10. 25. and as for any mans Diſciples the Quakers are not, for what they have received hath bot been from man, neither were they taught it by man, but by the Revelation of Jeſus Chriſt, as <hi>Paul</hi> te<g ref="char:EOLhyphen"/>ſtified, <hi>Gal.</hi> 1. 11, 12.</p>
+               <p>Prieſt. 2. Charge. <hi>Or he is one whoſe buſineſſe is to deliver out their own traditions, and new coyned truths to the world, rather then to receive the Scripture truths, in the love of them, and ſo one who hath provoked God to ſend him strong deluſions, and to give him up to believe a lye, that he might be damned.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for delivering out our own traditions and new coyned truths to the world; this is a moſt horrid untruth; for that truth which we deli<g ref="char:EOLhyphen"/>ver to the world, is the moſt ancient upon the face of the earth beſides it, even the ſame word which was from the beginning, by which many are be<g ref="char:EOLhyphen"/>gotten to God, into the faith &amp; fellowſhip of his own Son; this word was before traditions was, &amp; Judges them all in whomſoever they appear; this is the ancient truth and faith which was once delivered to the Saints, and hath brought the Quakers to receive the Scripture truths in the love of them, by which they ſee under the ſheeps cloathing, which ſuch ravening wolves as <hi>L. L.</hi> hath been ſo long covered with all, but would not he have called the appearance of Chriſt in the fleſh, in that way and manner of miniſtration of life, wherein he never appeared before, new coyned truths, if he had been in their dayes, who cryed againſt ſeveral things, and changed ſeveral things which God commanded and eſtabliſhed in the firſt Covenant, as the Temple, and the Prieſthood, and the Law, and would he not have called this new Doctrine, as the Philoſophers, Epicurians and Stoicks ſaid of <hi>Paul, Acts</hi> 17. 18. and others in the ſame nature, who asked if they might know what this new Doctrine was whereof he ſpoke, for they ſaid he brought cer<g ref="char:EOLhyphen"/>tain ſtrange things to their ears, others ſaid he ſeemed to be a ſetter forth of ſtrange Gods, <hi>verſ.</hi> 18, 19, 20. thus they cenſured him in their carnal
+<pb n="3" facs="tcp:34069:3"/>
+dark minds, which led them to call the Doctrine of Chriſt a new Doctrine, as <hi>Leo. Letchford</hi> doth of the ſame Doctrine now preached by Quakers.</p>
+               <p>Pr. 3. Charge. <hi>When you ſee him in his outward formal, Phariſaical garb, his glittering outſide beyond other men, wherein he boaſteth not a lit<g ref="char:EOLhyphen"/>tle, you may look upon the Devil in him transformed into an Angel of light.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for outward, formal, Phariſaical garb, and glittering out<g ref="char:EOLhyphen"/>ſide, this is all denied by the Quakers, but where the outſide is foule, there the inſide cannot be clean, for as the tree is, ſo is his fruit according to Chriſts words, <hi>Matth.</hi> 7. but as for boaſting of our glittering outſide, this is a falſe charge, which the Lord will Judge thee for, but that righteouſ<g ref="char:EOLhyphen"/>neſs with which we are covered is not of our ſelves, but of him who hath co<g ref="char:EOLhyphen"/>vered us with his white raiment, as the ſpirit of God bears us witneſs: And becauſe of this is the Prieſts rage ſo great againſt us, even to bloud it ſelf; as the ſame generation was againſt him, who could never be ſatisfied till they had his life, of whom all the Prophets and Apoſtles gave teſtimony that he was the Son of God, though the chief Prieſts with the Scribes called him a Devil; and if the Devil were transformed in us, into an Angel of light, we ſhould be more eſteemed by <hi>L. L.</hi> and his Brethren, then we are at this day.</p>
+               <p>Pr. 4. Charge. <hi>When he meets with the commands of Kings and Ma<g ref="char:EOLhyphen"/>gistratee, though not contradicted by Scripture, or never ſo concordant to it, he is that Demoniack in the Goſpel, and you may look upon the Devil in him as that unruly fiend, who breaks all bonds and chains aſunder, and whom no man can <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for the commands of Kings and Magiſtrates, which are not contradicted by the Scripture, or concordant to it, our Soules are ſubject unto, not for wrath but for conſcience ſake, yea to every Ordinance of man, which is for the puniſhment of evil doers, and for the praiſe of them that do well, 1 <hi>Pet.</hi> 2. 13. for which end alone King and R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lers were ordained of God; and whoſoever reſiſteth ſuch (as ſuch) reſiſteth the Ordinance of God; but the Devil was not in the three Children, who reſiſted <hi>Nebuchanezzans</hi> command, <hi>Dan.</hi> 3. when it was contrary to the command of God and his worſhip, neither was the Devil as an unruly fiend in <hi>Daniel,</hi> though he re<g ref="char:EOLhyphen"/>ſiſted the command of <hi>Darius</hi> the King, <hi>Dan.</hi> 6. 10. when it was matter of Conſcience to God, that though <hi>Darius</hi> had eſtabliſhed a Royal Statute, and a firm Decree, and ſigned it; yet <hi>Daniel</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rake it, and prayed to his God, as at other times, though by the King's Law he was not to pray, yet he went into his houſe, and his windows being open, he kneeled down and gave thanks before God, <hi>&amp;c.</hi> and thoſe men that ſtirred up <hi>Darius</hi> againſt <hi>Daniel,</hi> aſſembled together, and found <hi>Daniel</hi> praying, for which they ac<g ref="char:EOLhyphen"/>cuſed
+<pb n="4" facs="tcp:34069:4"/>
+him to the King, ſo that he ſuffered, <hi>verſ.</hi> 11, 12. even as many wick<g ref="char:EOLhyphen"/>ed Prieſts hath done againſt many at this day for praying to God, and wor<g ref="char:EOLhyphen"/>ſhipping him in their houſes, into which they have often entred, and find<g ref="char:EOLhyphen"/>ing the people of God either at prayer, or ſome other godly exerciſe, have often accuſed them, and ſtirred up the Rulers againſt them, ſo that they have deeply ſuffered as <hi>Daniel</hi> did, and the Devil was not in <hi>Mordecai,</hi> who diſobeyed the command of King <hi>Ahaſuerus,</hi> and would not bow unto <hi>Ha<g ref="char:EOLhyphen"/>man,</hi> nor do him reverence, <hi>Heſt.</hi> 3. 23. though the King had commanded it, and his Servants urged him daily to do it, yet he hearkened not to them, <hi>ver.</hi> 4. but worſhiped the Lord as he had commanded him, &amp; the Devil was not an unruly Fiend in <hi>Peter,</hi> and the other Apoſtles who diſobeyed the ſtrict command of the Rulers, <hi>Acts</hi> 5. 20, 21. and ſaid they ought to obey God rather then man, but if theſe had been in <hi>L. L.</hi>'s dayes, he would have called this rebellion, and an unruly Fiend in them, as he doth them that are led by the ſame ſpirit; now, though I queſtion not but their ſouls was ſub<g ref="char:EOLhyphen"/>ject to the higher power, yea to every ordinance of man, which was ordain<g ref="char:EOLhyphen"/>ed of God, for the puniſhment of evil doers, and for the praiſe of them that did well, as their ſucceſſours are at this day, neither do I queſtion at all that the Rulers aforementioned, would have been ſo cruell to the above named ſervants of God, if they had not been ſtirred up by the bloud-thirſty Prieſts, whoſe weapons in every generation was priſons, furnaces, and ſuch like tor<g ref="char:EOLhyphen"/>tures, upon the bodies of them, whom God raiſed up to bear witneſſe againſt their ungodly deeds, as this age hath fully manifeſted, and when that will not ſerve, but that they ſee the Lord delivers them out of all ſuch tortures, then they threaten to cut their throats themſelves, as <hi>Leon. Letehford</hi> hath done within this late years, who is ſo far from being a Miniſter of Chriſt, that the Devil cannot make him more like himſelf, who was a murtherer from the beginning, <hi>John</hi> 8. 44.</p>
+               <p>Pr. 5. Charge. <hi>All his Doctrines and Principles tend to the nouriſhing and advance of treaſon, rebellion, and irriligion, take a taſte of them.</hi>
+               </p>
+               <p>
+                  <hi>And first, I must tell you, that the name of that outragious and unruly ſpirit was</hi> Legion, <hi>that very Devil that is in the Quakers, becauſe he is many, as he ſaith of himſelf in the</hi> 5. <hi>of St. Mark.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> For the truth of falſhood of this Charge, I ſhall leave to the judge<g ref="char:EOLhyphen"/>ment of every judicious man who hath any true knowledge of the Quakers Doctrine &amp; Principles, whether it ever nouriſhed (or ſo much countenanced) treaſon, rebellion, irreligion or confuſion, and whether ſuch things is not daily found among the Prieſts, and their followers take a taſte of them.</p>
+               <p>I would fain know who it was that ſtirred up the whole Nation, againſt
+<pb n="5" facs="tcp:34069:4"/>
+                  <hi>Charles</hi> the I. to treaſon and rebellion, and curſed all who would not go forth againſt him, till they had deſtroyed him, was it the Quakers or the Prieſts in their Pulpits, even till they had driven the whole Nation into confuſion and bloud, whoſe lives was deadly to them while he enjoyed any part of his, who can but ſet to their ſeals to the Truth of this, that had any underſtanding in that day, who cryed both againſt the King, and that way of worſhip he had eſtabliſhed by Law, to the confounding and overthrow<g ref="char:EOLhyphen"/>ing of that which before they had cryed up for Divine ſervice, and then ſet up another thing, and cryed up that for an Oracle of God, becauſe it ſuted with their profit and unrighteous gain, for the preſervation of which they were ready to cry up any thing whatſoever it pleaſed men to lay before them; into which <hi>Leo. Letchford</hi> did creep, and relinquiſhed him called Lord <hi>Goring,</hi> when he was to ſuffer for the King (as tis ſaid) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd would not come at him in the time of his Diſtreſs, though he had pretended much Friendſhip to him before, when i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did put into his mouth; yet when the ſaid <hi>Goring</hi> was near Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cution he le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him, and ſided with <hi>Oliver</hi> and his party while they could put into his mouth; and now to cover this his t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<g ref="char:EOLhyphen"/>chery, he would accuſe others of treaſon and rebellion, who both are, and ever were clear of ſuch rebellion and confuſion, our leader being not come to deſtroy mens lives, but to ſave them, <hi>Luke</hi> 9. 56. who hath led us into the life of Chriſtianity, from ſuch bloud-ſuckers, who to ſatisfie their thirſty ſtomacks, cannot have any content while their fellow creatures remain un<g ref="char:EOLhyphen"/>deſtroyed.</p>
+            </div>
+            <div type="Rigges_response_to_Letchfords_affirmations">
+               <head>Now to <hi>Leonard Letchford</hi>'s Affirmations.</head>
+               <p>1. Aſſirmation. <hi>He ſaith the Devil is in the Quaker, an irreligious Devil, taking him off from holy duties, and bids him ſit ſtill and wait, give over praying, reading, hearing, and having any thing to do with Baptiſm, and the Supper of the Lord, but expect a voice within him, ſome extraordi<g ref="char:EOLhyphen"/>nary motions, which he muſt look upon as Chriſt the light within him, and which he muſt follow as his guide, though differing from, and standing in no conjunction with the light contained in the Scriptures.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That ſuch a ſpirit is in the Quakers, as to take them off from ho<g ref="char:EOLhyphen"/>ly duties, I think the Devil himſelf might bluſh to affirm: but as for holy duties, unholy men cannot perform them, whoſe prayers and plowing is ſin, <hi>Prov.</hi> 15. 8. &amp; 21. 4. and therefore that which bids him ſit ſtill and wait till the Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d work in him, both to will and to do, of his good pleaſure; is not the Devil, but the word of God, <hi>Phil.</hi> 2. 13. for it is good for a man both to hope, and quietly to wait for the ſalvation of the Lord, <hi>Lam.</hi> 3. 26. and the Lord is good to them that wait for him, <hi>Prov.</hi> 20. 22. but if the Devil
+<pb n="6" facs="tcp:34069:5"/>
+can get the wicked to make long prayers, and can ſatisfie them with that while he can keep them in ſin and tranſgreſſion, he knows they are faſt e<g ref="char:EOLhyphen"/>nough in his Kingdome, who knows God hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth not the prayers of ſinners, as it is written, <hi>John</hi> 9. 31. whoſe ſacrifice is abomination to the Lord, therefore I leave the prudent to judge, whether ſuch prayers were not better to be given over, which can never enter into the ear of the Lord, but is ſin before him, but as for baptiſme and the Supper of the Lord, the Qua<g ref="char:EOLhyphen"/>kers both own and practice, according to the Scriptures, and therefore this is a falſe charge againſt them<hi>:</hi> but may it not be rightly ſaid to be the Devil in <hi>L. L.</hi> who ſends the ſervants of God to priſon for practiſing of prayer &amp; holy duties, which the Lord hath led them to perform, as he hath done many of late years; and as for any extraordinary motions which the Quakers doth own as Chriſt in them which differeth from, or ſtandeth in no conjunction with the Scripture, I charge <hi>L. L.</hi> to produce any ſuch, that the Quakers either own or practiſe, or elſe let ſhame cover his face, from condemning the Innocent, without a cauſe.</p>
+               <p>Pr. 2. Affirmation. <hi>And now he may boldly adventure to become a ſedu<g ref="char:EOLhyphen"/>cing, and an erronious Devil having drawn him from the rule which is the written word which he calls ſometimes the declaration of the mind of God, I ſuppoſe he means to other men, who are in darkneſse, he calls the Quakers to have recourſe to ſome voice within him, which was</hi> Saul<hi>'s deluſion,</hi> I ve<g ref="char:EOLhyphen"/>rily thought, <hi>that I might do many ſuch &amp; ſuch thing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Acts 26. <hi>&amp; to at<g ref="char:EOLhyphen"/>tend upon ſome new revelations and declarations of the mind of God, which he hath not given to other men, and which are not contained in that dull and dark lant horn of the Scriptures, as they esteemed it, if this Devil play (as he doth with the Quaker) may not the dreams of St.</hi> Frances, <hi>and St.</hi> Anthony, <hi>the Revelation of St.</hi> Bridget, <hi>and St.</hi> Katharine, <hi>come to be of higher esteem; and to be preferred before the Scriptures, Popery, Popery, is not this making way for unwritten traditions, a bringing them into cre<g ref="char:EOLhyphen"/>dit, to the ſlighting of the written word of God.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for the Devil, being a ſeducing erroneous ſpirit, this hath been his practiſe many ages, having drawn both the Prieſts and their fol<g ref="char:EOLhyphen"/>lowers from the life and power of God in Chriſt Jeſus, which only redeems out of Satans Kingdome; but as for drawing the Quakers, from the rule of righteouſneſſe or the word of God, this he neither is, nor I hope ſhall ever be able to do; for it is the ſword of the Spirit, by which we have and doe quench all his fiery darts, which either he or any of his miniſters, hath or can ſhoot againſt us, but where doſt thou read of a written word to be the rule, if thou canſt prove ſuch a word by the Scriptures bring it forth now,
+<pb n="7" facs="tcp:34069:5"/>
+becauſe thou haſt urged that ſo often to make us odious, who cannot call the Scripture that which it doth not call it ſelf, but a declaration we can truly call it, becauſe the holy men of God did ſo call it, as thou mayſt read, <hi>Luke</hi> 1. 1, 2. which plainly demonſtrates, that the Scriptures, or writings of the ho<g ref="char:EOLhyphen"/>ly men of God from the beginning was called a declaration; And the word was God, <hi>Joh.</hi> 1. 1. And Chriſt who was one with his Father, his name was called the word of God, <hi>Rev.</hi> 19. 13. And the <hi>Bereans</hi> were noble becauſe they received the word, and then ſearched the Scriptures, <hi>Act.</hi> 17. 11. which again makes a manifeſt difference between the word and the writings which was firſt received before they could rightly ſearch the Scriptures, for if we had not received the word of God, and thereby ſearched the Scriptures, we could not have found out the deceivableneſs of the Prieſts, ſo much as we have done. And as for the D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vil calling the Quaker to ſome voice within him, this was never the Devils, call, but the call of God, as thou maiſt read, <hi>Deut.</hi> 30. 13, 14. And it was not the word of the Devil in <hi>Paul</hi> who ſaid the righ<g ref="char:EOLhyphen"/>teouſneſs of faith ſaith, the word is nigh thee, even in thy hear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; mouth, that thou maiſt hear it &amp; do it, <hi>Rom</hi> 10. 6, 7, 8. here he called them to a voice with<g ref="char:EOLhyphen"/>in as God called <hi>Moſes,</hi> as I have ſhewed above: &amp; it was not the Devil that led <hi>Paul</hi> to ſay Chriſt ſpoke in him, 2 <hi>Cor.</hi> 13. 3. whoſe voice he both heard, and exhorted others to hear. And to ſay that that was the light with<g ref="char:EOLhyphen"/>in <hi>Saul</hi> when he ſaid, <hi>I verily thought,</hi> &amp;c. this is an abſolute lye, for that was the ſame Spirit of darkneſs and deluſion, which now leads his Succeſſors to think they do good ſervice in perſecuting the Church of Chriſt and the members of it, who follows their evil thoughts, as he did, but when he came to know the true light, word, and power of God, this brought into captivity every thought unto the obedience of Chriſt, as he himſelf affirmed, 2 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. 5. and then inſtead of being a perſecutor, he was perſecuted by them who followed their evil thoughts, and among ſuch who now follows their evil perſecuting thoughts, inſtead of the true light of Chriſt Jeſus, the ima<g ref="char:EOLhyphen"/>ginations of their own brain, is more eſteemed then the ſound Truths, de<g ref="char:EOLhyphen"/>clared in the Scriptures, and as for St. <hi>Frances,</hi> St. <hi>Anthony</hi> and <hi>Bridget,</hi> I know no ſuch Saints; but if they follow their own dreams &amp; imaginations, it is but as the Prieſts doth at this day, who ſets up that from Scripture, which bears no teſtimony unto it, which is but meer Popery in the ground, though covered with a more fair cloak.</p>
+               <p>Pr. 3. Affir. <hi>He is in the Quaker a proud ſupercilious uncharitable, cenſo<g ref="char:EOLhyphen"/>rious Devil, to cloak and colour, which he gives him leave to be outwa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dly and in ſhew a reſerved, and humble, and grave, and abſtemious, and aboun<g ref="char:EOLhyphen"/>ding with ſanctimony, and ſelf-denial, as the moſt religious Monk or Her<g ref="char:EOLhyphen"/>mite,</hi>
+                  <pb n="8" facs="tcp:34069:6"/>
+                  <hi>or the ſtricteſt Votary in the Church of</hi> Rome, <hi>that he is not in lewd<g ref="char:EOLhyphen"/>neſs like other men, there lieth the foundation of his ſpiritual pride, if he had not this boast of the Devil, could not hope to make him half ſo like himſelf, who is the king of pride, though he never wore ribonds, nor lace, nor band strings to judge, and cenſure, &amp; condemn all men, who are not in their way, by calling themſelves the bleſsed of the Lord, the followers of the Lamb, the counſel and nobility of the Royal ſeed, is ſuch a piece of diaboli<g ref="char:EOLhyphen"/>cal pride, and uncharitableneſs, the devil were a very fool, ſhould he not be willing to give them the glory of that deep humility and ſelf-denial, as the renouncing of a hat band, a pair of cuffs, and a band string.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Was that a proud, ſupercilious, uncharitable, cenſorious Devil in <hi>John,</hi> who ſaid, we know we are of God, &amp; the whole world lyeth in wicked<g ref="char:EOLhyphen"/>neſs, 1 <hi>Jo</hi> 5. 19. &amp; was their grav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humbleneſs &amp; abounding with ſanctimony &amp; ſelf-denial to be judged as <hi>L. L.</hi> would judge the Quakers, whoſe light ſo ſhines before men, that the worſt of their enemies cannot but ſee &amp; acknow<g ref="char:EOLhyphen"/>ledg to their good works; yet the Devil having no juſt occaſion againſt them, that way to ſatisfy his malice, to make them odious, would brand them with ſpiritual pride, or liken them to the ſtrict votaries in the Church of <hi>Rome</hi> ther<g ref="char:EOLhyphen"/>by to caſt dirt in their faces, for which God will them judge. But as for the Church of <hi>Rome,</hi> time may manifeſt, whether the Prieſts or the Quakers are more like to her in principle &amp; practice, who are already ſo near concordant that one can ſcarce diſcern the d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fference, but only the ſtrictneſs of the one, &amp; the laſciviouſneſs of the other is the chiefeſt difference, that at preſent ap<g ref="char:EOLhyphen"/>pears between them, but as for the Quakers, they are hated and perſecuted of both, who deals proudly, ſenſoriouſly, &amp; uncha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itably with them, &amp; would cut their throats, if they durſt, their malice is ſo great againſt them; and as for diabolical pride &amp; uncharitableneſs to the advancing of which (as thou ſaiſt) the Devil were a very fool, ſhould he not be willing to give them the glory of that deep humility, <hi>&amp;c.</hi> ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humility &amp; ſelf denial ſtands in that which judges the ground of all ſuperfluity whether of Cuffs, Band-ſtrings, or any other things which is needleſs, or ſuperfluous, and of this the Devil doth not give us the glory, but odium and contempt becauſe of the power of God which hath ſtruck at the ground both of theſe &amp; many more great evils which hath and doth torment him, and deſtroy his Kingdome, which hath long ſtood in the ſuperfluity of naughtineſs, both in the Church of <hi>Rome,</hi> and elſewhere, and becauſe the daugh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of <hi>Zion</hi> walked in ſuch a ſuperfluity, the Lord ſent his plagues and judgements upon them, as thou maiſt read, <hi>Iſa.</hi> 3. 16. to the end; and the Apoſtle forbad ſuch ſuperfluity and coſtly a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, <hi>Tim.</hi> 2. 9. and yet was not a votary of the Church of <hi>Rome,</hi> nor had his glory from
+<pb n="9" facs="tcp:34069:6"/>
+the Devil, as <hi>L. L.</hi> would charge the Quakers withall, and as for cenſuring ſuch evils, woe unto us if we ſhould juſtifie that which God never did, and now doth ſo manifeſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y condemn.</p>
+               <p>Pr 4. Affirmation. <hi>He is in the Quaker an uncivil, unmannerly Devil, ſhews as little honour or reſpect to the greateſt Prince or Ruler on earth, as he doth to the meaneſt perſon, theſe are like to have much from him, when he denieth him the cap and the knee, and the bowing of the body, he ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lutes other men whom he meets, as bruit beaſts do one another, by ſtaring in the face, and p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſsing by, plays the dumb devil, unleſs a thing he calls a Prieſt in deriſion come in his way, and then he is an everlaſting, prating, bawling railing Devil.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If the Devil be uncivil and unmannerly (as no doubt he is) he is manifeſted in none more then in <hi>L. L.</hi> whoſe naſty, uncivil, unmannerly words and actions hath far exceeded all the hirelings about him, as I can produce under his own hand in many particulars, that inſomuch that he be<g ref="char:EOLhyphen"/>ing on a certain day in the houſe where <hi>Sarah Welſh</hi> lives, in <hi>Hurſt,</hi> he u<g ref="char:EOLhyphen"/>ſed ſuch uncivil expreſſions, that ſhe deſired her children to go out of the room, leaſt they ſhould learn ſuch evil communications which corrupt good manners, as the Apoſtle ſaith, 1 <hi>Cor.</hi> 15. 33. who ſtrictly forbad it, <hi>Eph.</hi> 4. 29. though this is not the hundredth part of his uncivil, unmannerly words and actions, which hath proceeded from him, which might turn the hearts of any civil man from him, who appears more like a Mountebank upon a ſtage, then a Miniſter of the Goſpel.</p>
+               <p>But as for our ſhewing as little reſpect or honour to the greateſt Prince on earth, as to the meaneſt perſon, in denying them the, cap and the knee, and bowing, <hi>&amp;c.</hi> it is confeſt we cannot reſpect mens perſons for their gold rings, nor gay cloathing, for then we ſhould commit ſin, and be convinced by the Law of God, as tranſgreſſors. According to the words of <hi>Jam.</hi> 2. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. for we ſay how can ſuch believe who receive honour one of another, becauſe Chriſt ſaid ſo, <hi>Joh.</hi> 5. 44. &amp; we know there is no re<g ref="char:EOLhyphen"/>ſpect of perſons with God, <hi>Eph.</hi> 6 9 &amp; many more inſtances might be pro<g ref="char:EOLhyphen"/>duced, but yet we honour all men in the Lord, &amp; it any Prince or Ruler up<g ref="char:EOLhyphen"/>on earth rule well, he is worthy of double honour, which was never withheld from them by the Quakers, though they could not reſpect their perſons with cap and knee, it being a heatheniſh invention &amp; not commanded no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pra<g ref="char:EOLhyphen"/>ctiſed by any Chriſtian under the Goſpel, but forbidden. And as for bruit beaſts, often when they meet one another in the fields, they bow their heads one to another, as the heathen do, who bow and cringe with cap and knee one to another, while they are inventing miſchief in their hearts one againſt
+<pb n="10" facs="tcp:34069:7"/>
+another. And as for the Quakers ſtaring in peoples faces, and eſpecially on the Prieſts, at whom <hi>L. L.</hi> ſaith the Devil in them, is an everlaſting railing brawling Devil, would not he have ſaid the ſame of <hi>Paul,</hi> who ſet his eyes on <hi>Elymas,</hi> &amp; ſaid, O thou full of all ſubtilty &amp; miſchief, thou child of the De<g ref="char:EOLhyphen"/>vil, thou enemy of all righteouſneſs, <hi>&amp;c. Act.</hi> 13. 8, 9, 10. would not <hi>L. L.</hi> have called this an everlaſting, prating, railing, bawling Devil, in <hi>Paul,</hi> I leave this alſo to the prudent to judge of, whether the Quakers or Prieſts practiſe in this thing alſo is more concordant to the Scripture.</p>
+               <p>Pr. 5. Affirmation. <hi>He is in the Quaker a covetous, fraudulent, ſacrile<g ref="char:EOLhyphen"/>gious Devil, withholding that tenth part from the owners of it, which gi<g ref="char:EOLhyphen"/>ven by the piety or ſuperſtition of former times, he can never make appear to be his own by any Law of God or man.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This charge hath no more truth in it then the former, nor not ſo much, whoſe Ox or Aſſe have the Quakers coveted, or whom have they de<g ref="char:EOLhyphen"/>frauded of any thing which is their juſt and proper right; but if <hi>L. L.</hi> count it ſacriledge to withhold tythe from a hireling Prieſt, they are guilty of that though he himſelf queſtions whether it was given by the piety or ſuperſti<g ref="char:EOLhyphen"/>tion of former times, yet however it muſt be counted ſacriledge to withhold it, though neither he nor any of his can ever make it appear by the Scri<g ref="char:EOLhyphen"/>ptures to be theirs, but if it could ſo be proved, they have robbed this whole Nation in not bringing it into a ſtore-houſe, &amp; with it relieving the Stran<g ref="char:EOLhyphen"/>ger, fatherleſſe &amp; widdows, for which end it was ordained of God, <hi>Deu.</hi> 14. 29. <hi>Mal.</hi> 3. 9, 10. What a Nation would this be, if the tythes were put to that uſe for which they were ordained of God, in the time of the Levitical Prieſthood, but if theſe Prieſts ſhould ſo do as they are far enough from it, yet they muſt deny Chriſt to be come in the fleſh (who was the end of that Law &amp; Prieſthood that took tythes, &amp; changed both, <hi>Heb.</hi> 7. 12. &amp; ſo ſhew themſelves Antichriſts, as they are, 1 <hi>Joh.</hi> 4. 3. So that the Miniſters of the true Goſpel were content with Chriſts allowance, which was food and ray<g ref="char:EOLhyphen"/>ment, and did not covet after the gift of the Levitical Prieſthood, but ſince their days the Pope hath converted it to another uſe, which the Lord never ordained it for; and therefore to withhold it from them who have no right to it by the Law of Goſpel is not ſacriledge, but a true teſtimony of the com<g ref="char:EOLhyphen"/>ing of Chriſt, who ends the Law and that Prieſthood alſo, &amp; offers up the ninths &amp; tenths alſo to the Lord who gave it, &amp; not to up hold ſuch who are called of men Maſter, &amp; ſtand praying in the Synagogues, &amp; loves the upper<g ref="char:EOLhyphen"/>moſt rooms at feaſts, going in long robes, &amp; love greetings in market places, which Chriſt the Son of God cried many woes againſt, <hi>Mat.</hi> 23.</p>
+               <p>Pr. 6. Affirmation. <hi>He is in the Quaker a rebellious, trayterous Devil,</hi>
+                  <pb n="11" facs="tcp:34069:7"/>
+                  <hi>denying the King his Supremacy in things ſpiritual, in things appertaining to the worſhip and ſervice of God, ſuch of time, place, gesture, conducing to the more comely and decent ordering of it, &amp; having proudly, and perverſly, ſettered and hampered himſelf, is reſolved to admit of no other bonds or ob<g ref="char:EOLhyphen"/>ligations, then thoſe of his own humors and fancies have laid upon him.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As for the Kings Supremacy, let them anſwer to whom it concerns, but we are neither ſettered, nor hampered, unleſſe by the priſons, and fet<g ref="char:EOLhyphen"/>ters which the Devil and <hi>L. L.</hi> hath laid upon us, for the tryal of our faith and patience, according as it was foretold, <hi>Rev.</hi> 2. 10.</p>
+               <p>Pr. 7. Affirmation. <hi>He is in the Quaker an abſurd, ſenſeleſs, ſtoical De<g ref="char:EOLhyphen"/>vil, affirming that a man is not to make reſistance, ſo much as to defend himſelf, if any other come to take his purſe, or his coat from him, it is like<g ref="char:EOLhyphen"/>ly he will ſay, if any com<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to pull the Kings Crown from his head, or his Scepter out of his hand, an excellent encouragement, to thieves, rogues, re<g ref="char:EOLhyphen"/>bells, and traytors, what preys and booties would the Quakers (who for the most part have little or nothing) make, could they fool men into their do<g ref="char:EOLhyphen"/>ctrine and perſwaſion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If it be an abſurd, ſenſeleſs, ſtoical Devil, to affirm that a man is not to make reſiſtance, <hi>&amp;c.</hi> then Chriſts doctrine was ſuch, who ſaid unto his Diſciples, <hi>reſiſt not evil, but whoſoever ſhall ſmite thee on the one cheek, turn the other, and if any man will ſue thee at the Law, and take away thy coat, let him have thy cloak alſo,</hi> Mat. 5. 39, 40. and Chriſt ſaid unto him that ſmiteth thee one the one cheek, offer alſo the other, and him that taketh away thy cloak, forbid not to take thy coat alſo, <hi>Luke</hi> 6. 29. now this I leave to the judgement of every judicious man, whether this is an abſurd ſenſeleſs doctrine of Chriſt or no, or whether if <hi>L. L.</hi> had been in Chriſts dayes when he preached this doctrine, he would not have called him an ab<g ref="char:EOLhyphen"/>ſurd, ſenſeleſs, ſtoical Devil, for affirming this, yea, or nay? and have told him this Doctrine was an excellent encouragement to thieves, rogues, and rebells, and have ſaid what preys &amp; booties would he (who had not whereon to lay his head in the world) make, could he fool men into his doctrine and perſwaſion, as <hi>L. L.</hi> now ſaith of the Quakers, who if they have little or nothing of the world, it is becauſe ſuch ravenous wolves as he hath devour<g ref="char:EOLhyphen"/>ed their outward ſubſtance, by ſpoiling their goods and caſting their bodies into priſon, which was never the practice of Chriſt nor his Miniſters, but of the Devil and his, as before is ſhewed.</p>
+               <p>Pr. 8. Affirmation. <hi>That he is in the Quaker a trifling, pedling, ridicu<g ref="char:EOLhyphen"/>lous Devil putting them upon the diſpute of good</hi> Engliſh, <hi>thou or you, the tenth hour, the ninth Moneth, about bells, hour-glaſſes, ribons, and band-ſtrings, to take them from weightier matters.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:34069:8"/>
+                  <hi>Anſw.</hi> This the very School-maſters, throughout the Nation, of <hi>England</hi> will condemn, who inſtructeth youth, to put a difference between Singular and Plural, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u</hi> and <hi>Vos,</hi> and would count it ridiculous indeed in any boy learning his <hi>Accidence,</hi> to ſay <hi>Vos,</hi> to a ſingle perſon, it being falſe in mat<g ref="char:EOLhyphen"/>ter and manner; yea, it would be laughed at by the very <hi>Greeks</hi> and <hi>Jews,</hi> who ſpeaks thou to one, and yee to many, which is ſound truth, and is teſti<g ref="char:EOLhyphen"/>fied throughout the Scripture; therefore, <hi>L. L.</hi> I ſend thee to thy <hi>Accidence</hi> again, to read there, whether it be a trifling, pedling, ridiculos Devil, that makes a difference between Singular and Plural, as thou wouldſt make the Quakers, for ſpeaking good <hi>Engliſh:</hi> and as for the tenth hour, the ninth Moneth, <hi>&amp;c.</hi> was not this the language of S. <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tthew</hi> 20. 5, 6, 9. &amp; 27. 45, 46. <hi>Mark</hi> 15. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 33. <hi>John</hi> 1. 39. all theſe called the ninth hour, and the tenth hour, and yet was not pedling, nor ridiculous Devils; and the ho<g ref="char:EOLhyphen"/>ly men of God did not call the Moneths after the Heathens invented names, as <hi>L. L.</hi> and his brethren doth, but called them the firſt Moneth, <hi>Gen.</hi> 8. 13. ſecond Moneth, 2 <hi>Chron.</hi> 30. 2. third Moneth, <hi>Ezek</hi> 31. 1. the fourth Moneth, <hi>Ezek</hi> 1. 1. the fifth Moneth, <hi>Num,</hi> 33. 38. the ſixth Moneth, <hi>Luke</hi> 7. 26. the ſeventh Moneth, <hi>Gen,</hi> 8. 4. the eight Moneth, <hi>Zech.</hi> 1. 1. the ninth Moneth, <hi>Ezek</hi> 10. 9. the tenth Moneth, <hi>Gen.</hi> 8. 5. the eleav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nth Moneth, <hi>Zeck</hi> 1 7. and the twelfth Moneth, <hi>Heſt.</hi> 3. 13. Now <hi>L. L.</hi> bring us forth any other names that the Moneths hath in the Scriptures, canſt thou prove <hi>March, April, May,</hi> by the Scriptures? is it not a pedling, ridicu<g ref="char:EOLhyphen"/>lous Devil in thee, to condemn others for ſlighting the Scripture, who are found more according to it then thy ſelf, who in all thy words, writings, &amp; actions, one can ſcarce find one thing of a hundred that is concordent to the Scripture, but either blundering in an Heatheniſh, Popiſh invention or another, to the ſlighting of the holy Scriptures, whereby that charge which thou wouldſt lay ſo heavy upon others, falls the heavieſt upon thy own head, and there ſhall reſt till thou clear thy ſelf, both of this and many more evils, of which thou art deeply guilty.</p>
+               <p>Pr. 9. Affirmation. <hi>He is in the Quaker an Atheistical Devil, whoſe doctrines and endeavours tend to the deſtruction of Chriſtianity, witneſſe his daily work which is to render the Miniſters and Teachers and Pastors of the people, odious and contemptible to them, uſing all the means they can to draw them from having any thing to do with them, or their Miniſtry, laying down this for a concluſion, that none ought to pay them but thoſe that hear them, thoſe that partake of their wares and commodities, which if men were left free to do, I would know whether (to ſave their purſes) they do not believe that the first thing that they conceive, nineteen parts of a</hi>
+                  <pb n="13" facs="tcp:34069:8"/>
+                  <hi>Nation (if divided into twenty) would do, would not be to reſolve never to hear a Sermon more, doth not the</hi> Atheiſtical <hi>Devil (in the Quaker) put on fair to make an</hi> Atheiſtical <hi>people.</hi>
+               </p>
+               <p>
+                  <hi>Anſw</hi> One would think the Devil himſelf might bluſh at this to leave his Miniſter at <hi>Hurſt</hi> ſo naked and contemtible in the ſight of God &amp; the whole N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, what now <hi>Leonard,</hi> haſt thou preached ſo long with the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt of thy brethren, till you have begat the whole Nation into covetouſneſſe like your ſelv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, that the nine<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eenth part (to ſave their purſes if left free) would reſolve never to hear you more? it now appears you have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un, and the Lord hath never ſent you, ſo that you have not profited this people at all, as the Lord by the Prophet foretold of you, <hi>Jer.</hi> 23. 21, 22. who hath not turn<g ref="char:EOLhyphen"/>ed them out of covetouſneſſe which is idolatry, <hi>Col.</hi> 3. 5. It ſeems God hath given little increaſe to your planting &amp; wa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing this many hundred yeares, that at the laſt you muſt force wages out of their hands, it is a ſignal token that God hath opened their eyes to ſee how long they have ſpent their mo<g ref="char:EOLhyphen"/>ney for that which is not bread, and how you have made merchandiſe of them, through covetouſneſſe, as the Apoſtle foretold of you, 2 <hi>Pet.</hi> 1. 2, 3. And now they will buy your trafficks no m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, which day is haſtning upon you, &amp; will overtake you as a thief in the night, and if you were not Athei<g ref="char:EOLhyphen"/>ſtical Miniſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s indeed, you would make them ſatisfaction fourfold, whom you have thus wronged. And where did Chriſts Miniſters exact or deſire wages of them, who did not hear them, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd receive of their ſpiritual, nay where do any Shop-keepers through this Nation, force his commodities upon any who do not like it, though his ſhop-doors ſtand open daily to ſell, yet if any man do not like it, he may go to the next and pleaſe himſelf, &amp; that Shop-keeper do not ſue him at the Law as the Prieſts do for money, who do not affect his wares, and goes to another, nay it were againſt reaſon for him ſo to do, yet at ſuch things the Prieſts cannot bluſh, whoſe unreaſonn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble exaction far exceeds all other Merchants beſide themſelves.</p>
+               <p>Pr. 10. and laſt Affirmation. <hi>That we may not deny the Quakers their Tenths, though they grudge us ours; He is in the Quaker a diſcontented blundering Devil, not knowing how to draw up his Charge againſt a thing called Prieſt, ſo as to make both ends hang together; if among theſe he meet with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny who are blame worthy, and I could wiſh he meet with fewer whom he might juſtly blame, though he ſeem to be troubled at any kind of tranſgreſſion, yet what pleaſure doth he take in the treading awry of the foot of any ſuch ſervant of the Lord, if there be any thing of trouble in him, it is not becauſe he finds ſuch as do amiſs, but becauſe he finds no more ini<g ref="char:EOLhyphen"/>quity in them, to open his black mouth against them, if among theſe he</hi>
+                  <pb n="14" facs="tcp:34069:9"/>
+                  <hi>meets with, whoſe converſation ſeems in the eye of the world to be as un<g ref="char:EOLhyphen"/>blameable as the most arrogant Phariſee among them, then they cry out of them for their well doing, for what the Law of God and the light within them (their own rule) guides them to, ſuch as the obeying the juſt com<g ref="char:EOLhyphen"/>mands of Superior powers, this they muſt forbear to do for fear of being clamoured againſt, for thoſe that ſtir up the Rulers of the people againſt them, when we know nothing better or more becomming us, then to ſtir up ſuch to be zealous in the cauſe of God, and in the maintaining of his true, worſhip, and ſervice, how ſhall we ever credit that diſcontented, contradi<g ref="char:EOLhyphen"/>ctory ſpirit, that rules in the Quakers, who ſends us to be guided by the light within us, &amp; rails againſt us, for doing what this tells us we are bound to do,</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By this it ſeems <hi>L. L.</hi> hath reſerved nine of the Devils to him<g ref="char:EOLhyphen"/>ſelf aforementioned, and hath ſent that to the Quakers, which he calls a diſcontentented blundertng Devil, which had been as fit for him to have reſerved to himſelf, as the other nine, not knowing how to draw up his Charge againſt them which he cannot do, without man feſting, the blun<g ref="char:EOLhyphen"/>dering Devil which rules in him, which leads him to give forth ſuch a loath<g ref="char:EOLhyphen"/>ſome diſh, that the very ſight thereof were able to turn the ſtomacks of all honeſt men, both againſt it &amp; the maker of it, but to draw up a charge againſt a Prieſt, is the eaſieſt thing of a thouſand, &amp; to make the ends meet together is no hard thing, the ſcrole will be ſo long. For by the time their covetouſ<g ref="char:EOLhyphen"/>neſs, pride, drunkenneſs, thievery, whoredom, &amp; rebellion, be meaſured, with their luxury, murther, &amp; cruelty, which is ſo manifeſt to all men, that there is ſcarce a County throughout this Nation, in which there is not hundreds, which can draw up volumes againſt them, their actions are grown ſo foul &amp; odious, that the ends will ſo meet together, that he that is half blind may faſten them together. But as for the Quakers taking pleaſure in the Prieſts iniquity that is a very lye, for their iniquity hath made many of their hearts ſad, whom the Lord hath not made ſad, and hath grieved the Spirit of the Lord, till the earth is ready to ſpue them up; therefore let all people take heed of partaking with them in their ſins, leaſt they partake of their plagues. But <hi>L. L.</hi> when didſt thou hear of any of the Quakers, cry out againſt any one for their well doing, but if thou call the ſtirring up the Rulers to perſecute and impriſon, the innocent well doing, that is cried againſt by the Spirit of God throughout the Scripture, for it was always the practiſe of the bloud thirſty Prieſts ſo to do, which Chriſt and his Apoſtles cried many woes a<g ref="char:EOLhyphen"/>gainſt. And I charge thee to mention where ever the cauſe of God or his worſhip was defended by ſuch weapons in all the time of the Goſpel, though all power in heaven and earth was committed to the Son, yet he never gave
+<pb n="15" facs="tcp:34069:9"/>
+ſuch authority to any of his Miniſters to inflict any corporal puniſh<g ref="char:EOLhyphen"/>ment upon any for not receiving his doctrine, or whereby to defend the cauſe of God, which he and his Miniſters pleads with the loſſe of their lives, if thou canſt produce any, bring it forth; if not, for ſhame give over calling it the cauſe of God, leſt the blundering Devil in thee appear unto all men, not to be able to make the ends meet either by Scripture or by good reaſon, what he hath led thee to give forth under thy hand, and ſo put all people out of credit of that ſpirit that cannot defendit ſelf, without ſending men to priſon, and when that will not ſerve to aggravate the Rulers againſt them, to adde afflictions to their bonds, &amp; when all that will not do, to threaten to cut their throats, as <hi>L. L.</hi> hath done, to his own confuſion: and as for the Quaker ſending men to a light within them, and railing againſt them for doing that which it tells them they are bound to do; what now <hi>Leonard,</hi> didſt not thou ſay in the ſecond page of thy Pamphlet, that the voice with<g ref="char:EOLhyphen"/>in was <hi>Saul</hi>'s deluſion which led him to perſecute? and doth thou confeſſe it tells thee thou art bound to ſtir up the Rulers, <hi>&amp;c.</hi> is not <hi>Saul</hi>'s ſpirit (by thy own confeſſion) thy leader to this, and not the true light of Chriſt Jeſus, and doſt thou ſo confeſſe and affirm that the voice within was <hi>Saul</hi>'s deluſion, and yet confeſſeth at laſt thou harkens to this voice, and doth that which it tells thee thou art bound to do; here the Devil hath manifeſted himſelf to be a confuſed, contradictory, blundering Devil indeed, who hath let thee fall ſo foul at laſt, for by thy own confeſſion, it is <hi>Saul</hi>'s deluſion leads thee to perſecute the ſervants of the living God, and therefore thy con<g ref="char:EOLhyphen"/>verſion, and not thy deſtruction, is the harty prayer of him, who wiſhes no hurt to thy body nor ſoul, who is called</p>
+               <closer>
+                  <dateline>
+                     <hi>Written</hi> 
+                     <date>the 15. <hi>day of the</hi> 12. <hi>Moneth called</hi> Fe<g ref="char:EOLhyphen"/>bruary, <hi>in the year</hi> 1663.</date>
+                  </dateline>
+                  <signed>Ambroſe Rigge.</signed>
+               </closer>
+            </div>
+            <div type="Rigges_response_to_L.L.">
+               <head>POSTSCRIPT.</head>
+               <head>Being a ſhort Anſwer to what <hi>L L.</hi> hath written to my Book called the <hi>Standard,</hi> &amp;c<g ref="char:punc">▪</g> Firſt.</head>
+               <p>
+                  <hi>HE asked what need had</hi> Ambroſe <hi>to have been at ſo much coſt and pains, to tell people what they knew him to be before; a Iugler, a Mountebank, an Emperick, a Quack<g ref="char:EOLhyphen"/>ſalver, a Lyer, a Locuſt ſent out of the bottomleſſe Pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Is not the railing, bawling Devil he condemns before in the Quakers now fully manifeſt in himſelf? Is this the Scripture language, or where hath he any ſuch language from the Quakers? and if <hi>L. L.</hi> doth not prove <hi>Ambroſe</hi> to be ſuch a one a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:34069:10"/>
+here he charges him to be; doth not alſo the diſcoutented blundering Devil appear in him, that cannot tell how to draw up a Charge againſt <hi>A. R.</hi> to make both ends meet without going one in aggravation with us, to make <hi>A. R.</hi> appear wor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e then he is, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he did at the Aſſizes at <hi>Horſham,</hi> or elſe neither Judge not Country will think ſo ill of him as <hi>L. L.</hi> would they ſhould.</p>
+               <p>2. <hi>The ſaid</hi> L. L. <hi>charges</hi> A. R. <hi>with foiſting in the word committing of ſin, whereby he ſeeks to darken that which God hath brought to light but as for the Query I t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ok it</hi> (verbatim) <hi>out of his firſt paper under his own hard, which if I ſhew, this Cloak muſt off alſo, but if not, his <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reformation of the Query will ſufficiently manifeſt him unto all who i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not blind, for</hi> John <hi>ſai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<g ref="char:punc">▪</g> whoſoever ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>deth in him ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neth not, whoſoever ſinneth hath not ſeen him nor known him,</hi> Joh. 3 6. <hi>whoſoever is born of God doth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot commit ſin for his ſeed remains in him, and he cannot ſin, becauſe he is born of God,</hi> 1 Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n 3. 9. <hi>which overthrows the Prieſts Query in his new <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſenſe, and again whoſoever is born of God ſi meth not, but he that is begotten of God keepeth himſelf, and that wicked one toucheth him not,</hi> 1 John 5. 18 <hi>Now</hi> Leonard <hi>what better are thou then before, lare no man challenge any perfection but ſinning while they are upon the earth, what ſaiſt thou to theſe Scriptures.</hi>
+               </p>
+               <p>
+                  <hi>But here again is not the everlaſting, railing bawling Devil fully manifeſt in thee who can<g ref="char:EOLhyphen"/>not write a ſentence without manifeſting him. Here again thou ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leſt</hi> Ambroſe <hi>renowned Ho<g ref="char:EOLhyphen"/>cur Pocus, and calls his late printed book Tagrag and Rigrag, which is more like the language of the Mountebank then a Miniſter of Chriſt: But what is lately printed in that book, will for ever ſtand as a true wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neſs againſt</hi> L. L <hi>unleſs he repent, and whether this naſty, ſcandalous paper be not fitter to be buried in a kennel, then counted an anſwer to the book I leave to the ſerious conſideration of all ſober men who ſee both.</hi>
+               </p>
+               <p>
+                  <hi>And inſtead of anſwering my</hi> 34. <hi>Scripture Queries, by which the Devil is ſtruck dumb at laſt, to evade this thou doſt pretend, it would be my Query, though it is thy own who was the firſt founder of</hi> Gotham, <hi>and who was the firſt wiſe man of</hi> Gotham, <hi>and what was his name</hi> Ambroſe <hi>or</hi> Thomas, <hi>which manifeſts thou ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt no more anſwer my Queries which are taken out of the Scriptures, then anſwer theſe naſty Queſtions which are ſo far from Scripture Que<g ref="char:EOLhyphen"/>ries, that they are not fit once to be mentioned amongſt good Chriſtians, thou art far from the wiſedome of</hi> Solomon, <hi>and as far from his companion, though thou wouldſt intrude thy ſelf with him, and make him company for thee to carry on thy deceivableneſs of unrighteouſneſs which the Lords hand is turned againſt.</hi>
+               </p>
+               <p>
+                  <hi>And whereas thou ſayeſt mans bleſſedneſſe lyeth rather in having his unrighteouſneſs hid, and his ſins covered, thou in not falling into ſin.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s is equ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt for he whoſe ſin is forgiven, hid and covered, he is cleanſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from it, and f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lling into it, by the bloud of Chriſt without which nothing can ever hide, cover, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blot it out, <hi>Acts</hi> 3. 19. 1 <hi>Ioh.</hi> 1. 17. before whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, he <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cover<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſhall not pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſper, but he that confeſſeth and forſaketh them ſhall find mercy, <hi>Prov.</hi> 28. 13. So that ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l mans perfection and bleſſedneſſe conſiſteth in b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anſed from all ſin, and from falling into ſin without which they cannot be covered not hid.</p>
+               <p>One thing more I mind in thy Poſtſcript, where the mur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Devil appears in thee again, wherein thou ſaiſt that <hi>Ambroſe</hi> is not perfect, to which nothing can be ad<g ref="char:EOLhyphen"/>ded, but ſomething may be added to <hi>Ambroſe, (ergo)</hi> there may be added to him a certain thing called He<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p, pretending ſeveral lyes and falſe accuſations to cover this murdering Spirit, who would have others ſend me to the G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes, and when they do i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not, would adde one thing more to make me perfect<g ref="char:punc">▪</g> 
+                  <hi>viz.</hi> a knife <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut my throat, as thou haſt already thereatned me, but how this will ſtand in the d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of the Lords ac<g ref="char:EOLhyphen"/>count, I leave it to him to plend wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h thee, to whom vengeance bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs, who will repay it into thy boſome, if he give thee not ſpeedy repentanc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and I leave thee naked <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> without any Cloak for the ſin.</p>
+               <pb facs="tcp:34069:10"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
